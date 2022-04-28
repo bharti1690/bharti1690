@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharti1690
+- 👋 Hi, I’m Bharti Sharma
 - 👀 I’m interested in coding and learning new programming skills
 - 🌱 I’m currently learning python and AWS 
 - 📫 How to reach me - sharma.bharti17@yahoo.com or https://www.linkedin.com/in/bharti-sharma-36a51136/
